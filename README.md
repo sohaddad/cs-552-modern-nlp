@@ -70,9 +70,69 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <tr>
         <td><strong>Week 5</strong></td>
         <td>18 Mar<br/>19 Mar</td>
-        <td>Evaluation &amp; Dataset Biases [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%205">slides</a>]<br /><strong>Guest Lecture: Evaluation of AI systems</strong></td>
+        <td>Evaluation &amp; Dataset Biases [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_5">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+13-14%3A+Evaluation++Dataset+Biases/0_38wmfktw/31346">video</a>]<br /><strong>Guest Lecture: Evaluation of AI systems</strong> [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_5">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+Guest+lecture+from+Angelika+Romanou+%28EPFL%29%3A+Evaluation+of+AI+systems/0_tjg4y7bb/31346">video</a>]</td>
         <td>Suggested reading: -</td>
         <td>Antoine Bosselut<br/><strong>  Angelika Romanou (EPFL)</strong></td>
+    </tr>
+    <tr>
+        <td><strong>Week 6</strong></td>
+        <td>25 Mar <br />26 Mar</td>
+        <td>Text Generation: Decoding  & Training [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_6">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+19-20%3A+Text+Generation%3A+Decoding+++Training/0_2paj14oz/31346">video</a>]<br />Text Generation: Evaluation [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_6">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+21%3A+Text+Generation%3A+Evaluation/0_p2msvic0/31346">video</a>]</td>
+        <td>Suggested reading: <ul><li>Decoding: <a href="https://arxiv.org/abs/1503.03535">On Using Monolingual Corpora in Neural Machine Translation</a></li><li>Decoding: <a href="https://arxiv.org/abs/1805.04833">Hierarchical Neural Story Generation</a></li><li>Decoding: <a href="https://arxiv.org/abs/1912.02164">Plug and Play Language Models: A Simple Approach to Controlled Text Generation</a></li><li>Decoding: <a href="https://arxiv.org/abs/1904.09751">The Curious Case of Neural Text Degeneration</a></li><li>Decoding: <a href="https://arxiv.org/abs/1911.00172">Generalization through Memorization: Nearest Neighbor Language Models</a></li><li>Training: <a href="https://arxiv.org/abs/1511.06732">Sequence Level Training with Recurrent Neural Networks</a></li><li>Training: <a href="https://arxiv.org/abs/1609.08144"> Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation</a></li><li>Training: <a href="https://arxiv.org/abs/1612.00563">Self-critical Sequence Training for Image Captioning</a></li><li>Training: <a href="https://arxiv.org/abs/1612.00370">Improved Image Captioning via Policy Gradient Optimization of SPIDEr</a></li><li>Training: <a href="https://arxiv.org/abs/1705.04304">A Deep Reinforced Model for Abstractive Summarization</a></li><li>Training: <a href="https://arxiv.org/abs/1805.03162">Polite Dialogue Generation Without Parallel Data</a></li></ul></td>
+        <td>Antoine Bosselut</td>
+    </tr>
+    <tr>
+        <td><strong>Week 7</strong></td>
+        <td>1 Apr <br />2 Apr</td>
+        <td>LLMs: In-context Learning, Instruction Tuning, Post-training [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_7">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+23%3A+LLMs%3A+In-context+Learning%2C+Instruction+Tuning%2C+Post-training/0_4ssy7l4l/31346">video</a>]                <br/> <strong>No Class</strong></td>
+        <td></td>
+        <td>Antoine Bosselut</td>
+    </tr>
+    <tr>
+        <td><strong>Week 8</strong></td>
+        <td>15 Apr</td>
+        <td>Midterm</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td><strong>Week 9</strong></td>
+        <td>22 Apr <br />23 Apr</td>
+        <td><strong>Guest Lecture: Interpretability</strong> [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_9">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+Guest+lecture+from+Madhur+Panwar++Deniz+Bayazit++%28EPFL%29%3A+Interpretability/0_vqejljkh/31346">video</a>]<br/> <strong>No Class</strong></td>
+        <td></td>
+        <td>Madhur Panwar & Deniz Bayazit <br /></td>
+    </tr>
+    <tr>
+        <td><strong>Week 10</strong></td>
+        <td>29 Apr <br />30 Apr</td>
+        <td>Ethics in NLP [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_10">slides</a>]<br /><strong>RCP Tutorial</strong></td>
+        <td>Suggested reading: <ul><li><a href="https://faculty.washington.edu/ebender/2017_575/#phil">Ethics in NLP</a></li><li><a href="https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/overview-human-rights-and-responsible-AI-company-practice.pdf">United Nations recommendations/overview on responsible AI practice</a></li></ul></td>
+        <td>Antoine Bosselut</td>
+    </tr>
+    <tr>
+        <td><strong>Week 11</strong></td>
+        <td>6 May <br />7 May</td>
+        <td>Retrieval-Augmented LLMs | Tools | Agents [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_11">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+Guest+lecture+from+Eric+Chen+%28EPFL%29%3A+Agentic+AI+with+LLMs/0_99zm318j/31346">video</a>]<br /><strong>Guest Lecture: Training Frontier AI Agents</strong> [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_11">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+Guest+lecture+from+Antonin+Faure+%28Mistral+AI%29%3A+Training+Frontier+AI+Agents+-+How+we+trained+Mistral+Medium+3.5/0_ar98bfqv/31346">video</a>]</td>
+        <td>Suggested reading: <ul><li><a href="https://proceedings.mlr.press/v119/guu20a.html">Retrieval augmented language model pre-training</a></li><li><a href="https://arxiv.org/abs/2005.11401">Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</a></li><li><a href="https://arxiv.org/abs/2302.04761">Toolformer: Language models can teach themselves to use tools</a></li><li><a href="https://arxiv.org/abs/2210.03629">React: Synergizing reasoning and acting in language models</a></li><li><a href="https://arxiv.org/abs/2112.04426">Improving language models by retrieving from trillions of tokens</a></li><li><a href="https://arxiv.org/abs/2302.07842">Augmented language models: a survey</a></li><li><a href="https://www.anthropic.com/engineering">Engineering at Anthropic: Inside the team building reliable AI systems</a></li></ul></td>
+        <td>Eric Chen <br /> <strong>Antonin Faure (Mistral AI)</strong></td>
+    </tr>
+    </tr>
+        <tr>
+        <td><strong>Week 12</strong></td>
+        <td>13 May <br />14 May</td>
+        <td>Scaling laws &#124; LLM Efficiency [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_12">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+25-26%3A+Scaling+laws+%7C+LLM+Efficiency/0_bp0fv6um/31346">video</a>] <br /><strong>No Class</strong></td>
+        <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/2001.08361">Scaling laws for neural language models</a></li><li><a href="https://arxiv.org/abs/2203.15556">Training compute-optimal large language models</a></li></ul></td>
+        <td>Antoine Bosselut</td>
+    </tr>
+    <tr>
+        <td><strong>Week 13</strong></td>
+        <td>28 May <br />29 May</td>
+        <td>Multimodal LLMs [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_13">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+Guest+lecture+by+Sepideh+Mamooler%3A+Multimodal+LLMs/0_qnjksu7k/31346">video</a>] &#124; Multilingual LLMs [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_13">slides</a>] [<a href="https://mediaspace.epfl.ch/media/%5B2026%5D+Guest+lecture+by+Clara+Meister%3A+Multilingual+LLMs/0_pmen1wrp/31346">video</a>] <br />Looking forward [<a href="https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week_13">slides</a>]</td>
+        <td>Suggested reading: <ul><li><a href="https://arxiv.org/abs/1911.02116">Unsupervised cross-lingual representation learning at scale</a></li><li><a href="https://arxiv.org/abs/1911.01464">Emerging cross-lingual structure in pretrained language models</a></li><li><a href="https://www.ruder.io/state-of-multilingual-ai/">The State of Multilingual AI</a></li><li><a href="https://arxiv.org/pdf/2405.17247">An Introduction to Vision-Language Modeling</a></li>
+            <li><a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/a03037317560b8c5f2fb4b6466d4c439-Abstract-Conference.html">What matters when building vision-language models?</a></li>
+            <li><a href="https://papers.nips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html">LLAVA: Visual Instruction Tuning</a></li>
+            <li><a href="https://arxiv.org/pdf/2412.05271">InternVL2.5: Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling</a></li></ul></td>
+        <td>Sepideh Mamooler & Clara Meister<br /> Antoine Bosselut</td>
     </tr>
     <tr>
         <td></td>
@@ -81,7 +141,6 @@ Recording of the lectures will be made available on Mediaspace. We will reuse so
         <td></td>
         <td></td>
     </tr>
-
 </table>
 
 
@@ -107,7 +166,7 @@ Please email us at **nlp-cs552-spring2026-ta-team [at] groupes [dot] epfl [dot] 
 
 **Lecturer**: [Antoine Bosselut](https://people.epfl.ch/antoine.bosselut)
 
-**Teaching assistants**: [Madhur Panwar](https://people.epfl.ch/madhur.panwar), [Badr AlKhamissi](https://people.epfl.ch/badr.alkhamissi), [Zeming (Eric) Chen](https://people.epfl.ch/zeming.chen?lang=en), [Sepideh Mamooler](https://people.epfl.ch/sepideh.mamooler), [Ayush Tarun](https://people.epfl.ch/ayush.tarun), [Lazar Milikic](https://people.epfl.ch/lazar.milikic)
+**Teaching assistants**: [Madhur Panwar](https://people.epfl.ch/madhur.panwar), [Badr AlKhamissi](https://people.epfl.ch/badr.alkhamissi), [Zeming (Eric) Chen](https://people.epfl.ch/zeming.chen?lang=en), [Sepideh Mamooler](https://people.epfl.ch/sepideh.mamooler), [Ayush Tarun](https://people.epfl.ch/ayush.tarun), [Lazar Milikic](https://people.epfl.ch/lazar.milikic), [Hao Zhao](https://people.epfl.ch/hao.zhao)
 
 
 
